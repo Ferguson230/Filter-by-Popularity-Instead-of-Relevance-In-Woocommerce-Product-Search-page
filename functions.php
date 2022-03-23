@@ -45,7 +45,7 @@ $orderby                 = isset( $_GET['orderby'] ) ? wc_clean( wp_unslash( $_G
 $show_default_orderby    = 'popularity' === apply_filters( 'woocommerce_catalog_orderby', 'popularity' );
 $catalog_orderby_options = apply_filters( 'woocommerce_catalog_orderby', array(
 
-'popularity' => __( 'Sort by popularity', 'woocommerce' ),
+'popularity' => __( 'Sort by Best Sellers', 'woocommerce' ),
 'rating'     => __( 'Sort by average rating', 'woocommerce' ),
 'date'       => __( 'Sort by newness', 'woocommerce' ),
 'price'      => __( 'Sort by price: low to high', 'woocommerce' ),
