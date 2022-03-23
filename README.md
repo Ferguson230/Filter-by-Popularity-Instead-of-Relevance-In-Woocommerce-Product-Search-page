@@ -1,7 +1,7 @@
 # Filter-by-Popularity-Instead-of-Relevance-In-Woocommerce-Product-Search-page
 Filter by Popularity Instead of Relevance In Woocommerce Product Search page
 
-This code allows your woocommerce search page to filter products by popularity or best sellers instead of relevance. It works well with FiboSearch – Ajax Search for WooCommerce Plugin.
+This code allows your woocommerce search page to filter products by popularity or best sellers instead of relevance. It works well with FiboSearch – Ajax Search for WooCommerce Plugin (https://wordpress.org/plugins/ajax-search-for-woocommerce).
 
 Instructions
 
