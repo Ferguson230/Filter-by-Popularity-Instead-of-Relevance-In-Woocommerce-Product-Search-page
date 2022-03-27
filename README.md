@@ -11,6 +11,6 @@ Instructions
 
 1. Copy the code and place it in your functions.php file of your child theme. It is recommended to place them in your child theme to avoid the code being overriden by theme updates.
 
-2. Install FiboSearch – Ajax Search for WooCommerce Plugin, activate it, and make it your default search bar.
+2. Install FiboSearch – Ajax Search for WooCommerce Plugin, activate it, and make it your default search bar (if you already have an ajax search you can skip this step).
 
 3. Clear any caches if you have a caching plugin installed and enjoy :).
